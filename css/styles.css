@@ -68,7 +68,7 @@ margin-top: 100px;
 
 .top-cloud {
 position: absolute;
-right:300px;
+right:18%;
 top: 50px;
 
 }
@@ -78,8 +78,8 @@ top: 50px;
 }
 .bottom-cloud {
 position: absolute;
-left:300px;
-bottom:300px;
+left: 18%;
+bottom: 40%;
 }
 
 .contact-me {
