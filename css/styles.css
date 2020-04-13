@@ -46,6 +46,7 @@ p {
 .top-container {
   padding-top: 100px;
   background-color: #E4F9F5;
+  position:relative;
 
 }
 
